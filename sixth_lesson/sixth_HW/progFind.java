@@ -270,12 +270,3 @@ class FilmYear {
     }
 }
 
-// class Genre2 {
-//     int id;
-//     String name;
-
-//     public Genre2(int id, String name) {
-//     this.id = id;
-//     this.name = name;
-//     }
-// }
